@@ -1,4 +1,9 @@
-<h1>Lumino is a social network written in HTML/SCSS/JS and PHP.</h1>
+<h1>Lumino is a social network written in HTML/SCSS/JS and PHP</h1>
+<h2>A few pictures</h2>
+<h3>Authorization page</h3>
+<img src="https://ltdfoto.ru/images/2024/07/31/STRANITA-AVTORIZATII.png">
+<h3>Main page same feed page</h3>
+<img src="https://ltdfoto.ru/images/2024/07/31/STRANITA-GLAVNAY.png">
 <h2 tabindex="-1" class="heading-element" dir="auto">Installation</h2>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/Lo0syash/Lumino.git <br><br>npm i</pre><div class="zeroclipboard-container">
   <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm i -D storybook-addon-multi-theme" tabindex="0" role="button">
